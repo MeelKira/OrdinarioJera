@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_audifonosxbox.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_catalogocascosgaming.xml" value="0.3609375" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_catalogocelulares.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_catalogotablets.xml" value="0.3609375" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_huawei.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_hyperex.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_ipadmini.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_main.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_productos.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_razer.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_tableta10.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_viphone.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_vmotog.xml" value="0.1" />
+        <entry key="..\:/Users/meelk/AndroidStudioProjects/ordinarioJera/app/src/main/res/layout/activity_vxiaomi.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
